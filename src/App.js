@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+
 // Bootstrap 5 import (via NPM)
 import "bootstrap/dist/css/bootstrap.min.css";
 
